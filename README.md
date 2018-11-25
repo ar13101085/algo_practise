@@ -1,1 +1,7 @@
-# algo_practise
+# algorithm practise
+# sort
+	bubble sort
+
+	
+# Search Algorithm
+	Linear Search
