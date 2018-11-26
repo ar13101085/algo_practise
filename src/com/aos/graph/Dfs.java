@@ -56,13 +56,10 @@ public class Dfs {
 class Node{
 	boolean isVisited;
 	String name;
+	int level=0;
 	ArrayList<Node> nodes=new ArrayList<>();
 	public Node(String name) {
 		super();
 		this.name = name;
 	}
-	
-	
-	
-	
 }
